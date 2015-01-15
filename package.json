@@ -1,0 +1,11 @@
+{
+	"author" : "Renato Kano",
+	"name" : "censor_nodejs_module",
+	"version" : "0.1.0",
+	"description" : "Censor Node.js Module",
+	"main" : "censorstr",
+	"dependencies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+}
