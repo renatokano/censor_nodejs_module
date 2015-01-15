@@ -4,6 +4,15 @@
 	"version" : "0.1.0",
 	"description" : "Censor Node.js Module",
 	"main" : "censorstr",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/renatokano/censor_nodejs_module"
+	},
+	"keywords" : [
+		"censor",
+		"censura",
+		"words"
+	],
 	"dependencies" : {},
 	"engines" : {
 		"node" : "*"
